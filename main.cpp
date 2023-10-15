@@ -8,7 +8,6 @@ int main() {
     long mang[n];
     long k;
     long tachso;
-    long res;
     for (int i = 0; i < n; i++){
         cin >> mang[i];
     }
