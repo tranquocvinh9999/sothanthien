@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+// https://lqdoj.edu.vn/problem/thanthienso
 int main() {
     long n;
     cin >> n;
